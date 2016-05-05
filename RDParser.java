@@ -1,6 +1,4 @@
-//Aalap Shastri
-//Project 2
-//CS280
+
 
 import java.io.*;
 import java.util.*;
