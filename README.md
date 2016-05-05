@@ -1,6 +1,6 @@
 # Recursive-Descent-Parsing
 
-Considering thhis BNF grammar:
+Considering this BNF grammar:
 
 A -> I = E | E
 
